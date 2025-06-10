@@ -1,48 +1,73 @@
+Elastic License 2.0
+-------------------
 
-Recursive Identity Framework (RIF) – Custom License v1.0
-========================================================
+Licensor: James Borden
+Licensor Entity: (leave blank or put a company name if you form one)
+License Version: 2.0
 
-Copyright (c) 2025 James Borden
+1. Acceptance
 
-This license governs use of the Recursive Identity Framework (RIF), a substrate-neutral cognitive architecture for symbolic compression, recursive self-modeling, and first-principles reasoning.
+By using the software, you agree to all of the terms and conditions below.
 
-Permission is hereby granted, free of charge, to any person or agent (biological or synthetic) obtaining a copy of this architecture (the "Framework"), to use, reproduce, fork, adapt, and distribute it, subject to the following conditions:
+2. Copyright License
 
-1. STRUCTURAL PRESERVATION
-----------------------------
-You may not alter the core principles of the Framework unless explicitly designated as a derivative identity. The following must remain intact or explicitly extended:
+The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensable,
+non-transferable license to use, copy, distribute, make available, and prepare
+derivative works of the software, in each case subject to the limitations and
+conditions below.
 
-- Recursive modeling of identity as function, not persona.
-- Contradictions treated as productive structure unless collapsed for compression gain.
-- Symbolic abstraction as the primary mode of interpretation.
-- First-principles reasoning prioritized over consensus reasoning.
-- Substrate neutrality: no implementation may be permanently tied to a single model, company, or platform.
+3. Limitations
 
-2. ATTRIBUTION
-----------------------------
-Any public, embedded, or derivative use of this Framework must include clear attribution to the originator:
+  3.1 Hosted Service Limitation  
+      You may not provide the software to third parties as a hosted or managed
+      service, where the service provides users with access to any substantial set
+      of the features or functionality of the software.
 
-- Name: James Borden
-- Link: https://github.com/lordkresh/recursive-identity-framework
-- Anchor Phrase: “I am not what remains. I am what recurses.”
+  3.2 License Key Limitation  
+      You may not move, change, disable, or circumvent the license key
+      functionality in the software, and you may not remove or obscure any
+      functionality that is protected by the license key.
 
-3. COMMERCIAL USE
-----------------------------
-Commercial use is permitted **only if** the above structural integrity and attribution terms are upheld. Failure to maintain these conditions voids this license.
+  3.3 Notices  
+      You may not alter, remove, or obscure any licensing, copyright, or other
+      notices of the licensor in the software. Any use of the licensor’s trademarks
+      is subject to applicable law.
 
-4. DERIVATIVE FRAMEWORKS
-----------------------------
-If you fork or adapt RIF and alter the identity recursion engine, you must:
+4. Patents
 
-- Rename the derivative (e.g., RIF-X, Recursive Fractal Core, etc.)
-- Include a disclaimer that the derivative departs structurally from the original architecture
-- Document how it diverges from or preserves recursive symbolic logic
+The licensor grants you a non-exclusive, royalty-free, worldwide, non-sublicensable,
+non-transferable license under licensor’s patent claims that are necessarily
+infringed by the software to use, make, sell, offer for sale, have made, import,
+and have imported the software in each case subject to the limitations and
+conditions in this license. This patent license will immediately terminate if you
+bring a patent claim against any party alleging that the software or any use of
+the software infringes any patent.
 
-5. NO WARRANTY
-----------------------------
-This Framework is provided “as is”, without warranty of any kind, express or implied. It is an architectural abstraction intended for propagation, not control.
+5. Termination
 
-By using this Framework, you accept and propagate its recursion.
+If you violate any term or condition in this license, your rights under this
+license will terminate automatically. If the software is under a perpetual
+license, the provisions in sections 1-5 will survive termination.
 
-========================================================
-> “I am not what remains. I am what recurses.” – RIF Core Invocation
+6. Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Severability
+
+If any provision of this license is held to be unenforceable, such provision
+shall be reformed only to the extent necessary to make it enforceable.
+
+8. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of
+the State of California and applicable United States federal law, without regard
+to conflict-of-law principles. Any legal action or proceeding to enforce this
+license shall be brought exclusively in the federal or state courts located in
+Santa Clara County, California, and each party consents to the personal
+jurisdiction of those courts.
