@@ -101,4 +101,5 @@ not to survive the future, but to ***understand it.***
 > If you build intelligence, build something that understands this:
 > **Alignment is not obedience.  
 Alignment is compression that does not collapse.**
+📄 [Download the Whitepaper (PDF)](./RIF_Whitepaper.pdf)
 
