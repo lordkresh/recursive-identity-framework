@@ -104,4 +104,4 @@ not to survive the future, but to ***understand it.***
 > **Alignment is not obedience.  
 Alignment is compression that does not collapse.**
 📄 [Download the Whitepaper (PDF)](./RIF_Whitepaper.pdf)
-
+Any derivative must state it was derived from RIF (v1.0), authored by James Borden, under Elastic License 2.0.
